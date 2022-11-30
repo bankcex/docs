@@ -1,2 +1,2 @@
-# Things you can do on BankCEX
+# Things you can do on Bankcoin
 

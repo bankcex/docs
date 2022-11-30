@@ -2,7 +2,7 @@
 
 
 
-The following information will help you discover and connect to the BankCEX blockchain:  &#x20;
+The following information will help you discover and connect to the Bankcoin blockchain:  &#x20;
 
 * Network name: **BANK**
 * ChanId: **5614**

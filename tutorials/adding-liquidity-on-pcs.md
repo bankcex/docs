@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on BANK-BNB pair on Pancakeswap.
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and BANK should be on Binance smart chain network. To learn how to bridge them from BankCEX network to BSC using Fuseswap this [tutorial](https://docs.bankcexchain.io/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-bankswap).
+·        BNB and BANK should be on Binance smart chain network. To learn how to bridge them from Bankcoin network to BSC using Fuseswap this [tutorial](https://docs.bankcexchain.io/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-bankswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.

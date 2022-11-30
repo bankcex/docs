@@ -4,7 +4,7 @@ description: 'Guides on how to stake, delegate and withdraw using myetherwallet.
 
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a BankCEX chain validator is to have a stake amount of at least 100,000 BankCEX tokens. The stake amount is the sum of staked and delegated BankCEX tokens of the address. This guide walks trough the process of using MEW \(MyEtherWallet.com\) in the process of using BankCEX network.
+The basic requirement to become a Bankcoin chain validator is to have a stake amount of at least 100,000 Bankcoin tokens. The stake amount is the sum of staked and delegated Bankcoin tokens of the address. This guide walks trough the process of using MEW \(MyEtherWallet.com\) in the process of using Bankcoin network.
 
 {% hint style="warning" %}
 **Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.
@@ -14,14 +14,14 @@ The basic requirement to become a BankCEX chain validator is to have a stake amo
 
 There are two options to stake \(both should be called from the address which would be the validator\)
 
-1. Send BankCEX tokens to the [consensus contract](https://scan.bankcoin.io/address/0x72e46221d340d2Fa573cdba6D4B69610ff683079) - 0x786Aa3227317A2e513cFE20c5897F122650bd671 on the fuse network.
+1. Send Bankcoin tokens to the [consensus contract](https://scan.bankcoin.io/address/0x72e46221d340d2Fa573cdba6D4B69610ff683079) - 0x786Aa3227317A2e513cFE20c5897F122650bd671 on the fuse network.
 2. Call the \`stake\` function on the [consensus contract](https://scan.bankcoin.io/address/0x72e46221d340d2Fa573cdba6D4B69610ff683079) - 0x786Aa3227317A2e513cFE20c5897F122650bd671 on the fuse network
 
  
 
 ## Delegate
 
-BankCEX token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators.
+Bankcoin token holders who don't want to run a node by themselves but still wish to participate in governing the network can delegate any amount to one of the validators.
 
 Delegating is done by calling the \`delegate\` function on the [consensus contract](https://scan.bankcoin.io/address/0x72e46221d340d2Fa573cdba6D4B69610ff683079) with the validator address as data \(see screenshot from MEW\).
 
@@ -29,7 +29,7 @@ Delegating is done by calling the \`delegate\` function on the [consensus contra
 
 ## Withdraw
 
-Both stakers and validators can withdraw their BankCEX tokens, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the BankCEX chain validators list.
+Both stakers and validators can withdraw their Bankcoin tokens, up to the staked/delegated amount, at any time. The withdrawn amount will be deducted from the validator stake amount, and if the stake amount becomes below the minimum stake amount - the validator will be removed from the Bankcoin chain validators list.
 
 There are two options to withdraw:
 

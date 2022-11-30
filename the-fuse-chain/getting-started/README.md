@@ -1,19 +1,19 @@
 ---
-description: Becoming a BankCEX validator in a few simple steps
+description: Becoming a Bankcoin validator in a few simple steps
 ---
 
 # Getting started as a validator
 
 ## Pre-requirements
 
-In order to be a BankCEX validator, you first must see that you meet the pre-requirements:
+In order to be a Bankcoin validator, you first must see that you meet the pre-requirements:
 
-* You know what it means to be a BankCEX validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
+* You know what it means to be a Bankcoin validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
 * You have at least 100K BANK tokens or you will have an aggregated delegation of at least 100K BANK tokens \(you can purchase BANK token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
 * You should have some ETH for gas, 1 ETH should last you for a few months.
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
-## How to become a BankCEX validator
+## How to become a Bankcoin validator
 
 To quickly become a validator, follow this steps:
 
@@ -22,9 +22,9 @@ To quickly become a validator, follow this steps:
 ```text
 mkdir fuse-validator
 cd fuse-validator
-wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/BankCEX/master/scripts/quickstart.sh
+wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/Bankcoin/master/scripts/quickstart.sh
 chmod 777 quickstart.sh
-wget -O .env https://raw.githubusercontent.com/GoldXDev/BankCEX/master/scripts/examples/.env.validator.example
+wget -O .env https://raw.githubusercontent.com/GoldXDev/Bankcoin/master/scripts/examples/.env.validator.example
 ```
 
 ### Step 2: Update the \`.env\` file:
@@ -53,23 +53,23 @@ After running the script, an account is created for you. You can find out your a
 {% endhint %}
 
 * Send some ETH to the address that you created or imported in step 1 on the Ethereum network..
-* Send BANK tokens to the same address, but on the BankCEX network.
+* Send BANK tokens to the same address, but on the Bankcoin network.
 
 {% hint style="warning" %}
-In order to connect your wallet to the BankCEX network, you should connect it to the BankCEX RPC using [Metamask](../../how-to-add-fuse-to-your-metamask.md) or [MEW](../../how-to-add-fuse-network-to-mew.md)
+In order to connect your wallet to the Bankcoin network, you should connect it to the Bankcoin RPC using [Metamask](../../how-to-add-fuse-to-your-metamask.md) or [MEW](../../how-to-add-fuse-network-to-mew.md)
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
 
 #### Stake
 
-To stake BANK tokens, all you should do is send your BANK tokens to the BankCEX Consensus contract address over the BankCEX network from the validator address.
+To stake BANK tokens, all you should do is send your BANK tokens to the Bankcoin Consensus contract address over the Bankcoin network from the validator address.
 
 {% hint style="success" %}
-The BankCEX Consensus contract address: `0x786Aa3227317A2e513cFE20c5897F122650bd671`
+The Bankcoin Consensus contract address: `0x786Aa3227317A2e513cFE20c5897F122650bd671`
 {% endhint %}
 
-The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to BankCEX and send the BANK tokens \(native tokens\) to the Consensus contract address.
+The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to Bankcoin and send the BANK tokens \(native tokens\) to the Consensus contract address.
 
 {% hint style="info" %}
 You can find your key-store \(containing your private key\) and the password for the created account in:

@@ -4,13 +4,13 @@ description: This tutorial will explain how to delegate/stake/unstake your BANK.
 
 # Staking tutorial
 
-Note: You can only stake BANK which is on BankCEX network. Please make sure you have changed into BankCEX network in Metamask while doing any transactions on staking UI. 
+Note: You can only stake BANK which is on Bankcoin network. Please make sure you have changed into Bankcoin network in Metamask while doing any transactions on staking UI. 
 
-How to Stake BankCEX:
+How to Stake Bankcoin:
 
 **Step 1:**
 
-Navigate to staking.bankcexchain.io and login to your wallet through metamask. Make sure you are on BankCEX network. If you are not please follow the instructions [**here**](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.bankcexchain.io and login to your wallet through metamask. Make sure you are on Bankcoin network. If you are not please follow the instructions [**here**](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 ![](../.gitbook/assets/0%20%284%29.png)
 

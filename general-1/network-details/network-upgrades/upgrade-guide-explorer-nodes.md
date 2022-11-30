@@ -16,7 +16,7 @@ sudo docker stop $(sudo docker ps -q)
 
 ```
 cd <to quickstart.sh location>
-wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/BankCEX/master/scripts/quickstart.sh
+wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/Bankcoin/master/scripts/quickstart.sh
 ```
 
 ### Step 3 - Upgrade your DB using OEs upgrade tool

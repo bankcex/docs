@@ -1,4 +1,4 @@
-# BankCEX Mainnet
+# Bankcoin Mainnet
 
 ### General Information
 
@@ -6,7 +6,7 @@
 | ------------- | ----------- | --------- | -------- | ------------ | ---------- |
 | 2,200,000,000 | 15 seconds  | 0 GWei    |          | BANK        |      5614 |
 
-* Network name: **BankCEX**
+* Network name: **Bankcoin**
 * ChanId: **5614**
 * Gas price: **0 gwei**
 * RPC
@@ -17,7 +17,7 @@ Please refer to [node-example](https://github.com/bankcex/BANKNetwork/tree/maste
 
 ### Blockchain explorer
 
-**BankCEX Explorer** is the official blockchain explorer for BankCEX. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
+**Bankcoin Explorer** is the official blockchain explorer for Bankcoin. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
 {% embed url="https://scan.bankcoin.io" %}
 

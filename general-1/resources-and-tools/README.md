@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports BankCEX data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports Bankcoin data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on BankCEX with Remix, simply choose injected web3 and add the BankCEX custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on Bankcoin with Remix, simply choose injected web3 and add the Bankcoin custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

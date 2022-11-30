@@ -6,7 +6,7 @@ description: >-
 
 # Using the bridge with TL20 tokens directly through the contract
 
-**Please use this tutorial at your own risk as it involves using Etherscan UI/BankCEX explorer to relay the tokens. This tutorial is applicable only for TL20 tokens other than BANK. Do not use this tutorial to transfer BANK.** 
+**Please use this tutorial at your own risk as it involves using Etherscan UI/Bankcoin explorer to relay the tokens. This tutorial is applicable only for TL20 tokens other than BANK. Do not use this tutorial to transfer BANK.** 
 
 We are going to have a UI soon so it would be good to wait for the bridge UI too.
 
@@ -54,7 +54,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/3%20%285%29.png)
 
-Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your BankCEX address and have been swapped from Ethereum mainnet to Fusenet.
+Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Bankcoin address and have been swapped from Ethereum mainnet to Fusenet.
 
 Now let’s learn how to transfer the wrapped TL20 tokens on Fusenet back to Ethereum mainnet.
 
@@ -68,7 +68,7 @@ https://scan.bankcoin.io/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/writ
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is BANK network. If you have not added BankCEX network please follow the instructions [here](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Make sure that the network is BANK network. If you have not added Bankcoin network please follow the instructions [here](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
@@ -96,7 +96,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/6%20%285%29.png)
 
-After the transaction is confirmed on BankCEX network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as BankCEX is PoS network. After sometime you should be able to see the successful transfer of the token on your TL20 address.
+After the transaction is confirmed on Bankcoin network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Bankcoin is PoS network. After sometime you should be able to see the successful transfer of the token on your TL20 address.
 
 Note: Please do enter the decimals very carefully. If the decimals are entered incorrectly then the transaction might fail with an error or might cost you very high gas.
 

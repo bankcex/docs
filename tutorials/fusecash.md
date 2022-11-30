@@ -36,7 +36,7 @@ In the event your phone is broken, stolen, lost or the app is accidentally delet
 
 ### **5. Enable Passcode or Touch/Face ID**
 
-To make sure only you have access to your BankCEX Cash mobile app, make sure to add another layer of authentication such as Passcode or Touch/Face ID to access your funds on your BankCEX Cash wallet. This prevents any bad actors accessing your wallet in case you lose your mobile device or leave it unsafe .  
+To make sure only you have access to your Bankcoin Cash mobile app, make sure to add another layer of authentication such as Passcode or Touch/Face ID to access your funds on your Bankcoin Cash wallet. This prevents any bad actors accessing your wallet in case you lose your mobile device or leave it unsafe .  
 ****
 
 

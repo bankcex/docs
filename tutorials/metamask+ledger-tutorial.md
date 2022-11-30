@@ -1,6 +1,6 @@
 # Untitled
 
-We will learn how to connect Ledger to Metamask and use it on BankCEX network after the latest Metamask and Ledger live update.
+We will learn how to connect Ledger to Metamask and use it on Bankcoin network after the latest Metamask and Ledger live update.
 
 Ledger live 2.26.1
 
@@ -47,7 +47,7 @@ Once the device bridge is opened go back to Metamask and select the Account \(ad
 
 ![Capture.PNG](../.gitbook/assets/6%20%2810%29.png)
 
-You will be logged in to the address you selected and now you can change to “BankCEX network” and perform the transactions on BankCEX network through your Ledger device.
+You will be logged in to the address you selected and now you can change to “Bankcoin network” and perform the transactions on Bankcoin network through your Ledger device.
 
-Note: To learn how to add BankCEX network RPC follow [this link.](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+Note: To learn how to add Bankcoin network RPC follow [this link.](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
 

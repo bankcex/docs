@@ -6,8 +6,8 @@ description: We will learn on how to add liquidity to Fuseswap on BANK/USDC pair
 
 **Prerequisites:**
 
-* You should be connected to BankCEX RPC.
-* USDC and BANK should be on BankCEX network. To learn how to transfer them to BankCEX network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.bankcexchain.io/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-bankswap).
+* You should be connected to Bankcoin RPC.
+* USDC and BANK should be on Bankcoin network. To learn how to transfer them to Bankcoin network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.bankcexchain.io/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-bankswap).
 
 **Step 1:**
 
@@ -15,7 +15,7 @@ Navigate to [www.bankswap.com](https://bankswap.com/) .The interface will look l
 
 ![](../../.gitbook/assets/0%20%287%29.png)
 
-Use **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see that you are connected to Fuseswap via BankCEX network.
+Use **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see that you are connected to Fuseswap via Bankcoin network.
 
 ![](../../.gitbook/assets/1%20%2810%29.png)
 

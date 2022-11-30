@@ -1,13 +1,13 @@
 # How to use WalletConnect on fuse.cash and add liquidity on Fuseswap
 
-We will learn how to connect BankCEX cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through BankCEX cash wallet.
+We will learn how to connect Bankcoin cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through Bankcoin cash wallet.
 
 Mobile OS- Android  
 App version used- 0.1.14.144
 
 **Step 1:**
 
-Open your BankCEX cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
+Open your Bankcoin cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
 
 ![](../.gitbook/assets/0%20%283%29.jpeg)
 

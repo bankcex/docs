@@ -1,6 +1,6 @@
-# BankCEX Consensus
+# Bankcoin Consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. BankCEX network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Bankcoin network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
 ![](<../../.gitbook/assets/image (3).png>)
 
@@ -10,7 +10,7 @@ BlockReward contract is calculates the reward amount that validators and delegat
 
 With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.&#x20;
 
-The bridge is used to transfer the BankCEX native token between BankCEX and Ethereum networks.&#x20;
+The bridge is used to transfer the Bankcoin native token between Bankcoin and Ethereum networks.&#x20;
 
 ## [Consensus - 0x72e46221d340d2Fa573cdba6D4B69610ff683079](https://scan.bankcoin.io/address/0x72e46221d340d2Fa573cdba6D4B69610ff683079)
 
@@ -23,7 +23,7 @@ Stake amount for a validator is the sum of staked and delegated amount to it's a
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 100,000 BankCEX token
+minimum stake amount = 100,000 Bankcoin token
 
 cycle duration blocks = 34560 (approximately 2 days)
 {% endhint %}

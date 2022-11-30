@@ -24,19 +24,19 @@ Click on **“Bridge”**, Select **“BANK”** from dropdown and enter the amo
 
 ![](../../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the BANK balance in the same address on BankCEX network will have the updated balance of BANK which can be checked through [www.scan.bankcoin.io](http://www.scan.bankcoin.io/). 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the BANK balance in the same address on Bankcoin network will have the updated balance of BANK which can be checked through [www.scan.bankcoin.io](http://www.scan.bankcoin.io/). 
 
 ![](../../.gitbook/assets/3%20%288%29.png)
 
 **Transferring BANK from Fusenet to ETH mainnet.**
 
-Make sure that your wallet is running on BankCEX RPC.
+Make sure that your wallet is running on Bankcoin RPC.
 
 **Step 1:** Navigate to www.bankswap.com . The interface will look like as shown below
 
 ![](../../.gitbook/assets/4%20%289%29.png)
 
-Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case BankCEX network\).
+Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case Bankcoin network\).
 
 ![](../../.gitbook/assets/5%20%286%29.png)
 

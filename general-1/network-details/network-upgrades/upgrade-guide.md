@@ -16,7 +16,7 @@ The update will pull the latest database from our latest snapshot so please ensu
 
 ```
 cd <location of quickstart.sh>
-wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/BankCEX/master/scripts/quickstart.sh
+wget -O quickstart.sh https://raw.githubusercontent.com/GoldXDev/Bankcoin/master/scripts/quickstart.sh
 ```
 
 ### Step 2 - Run quickstart and agree to upgrade

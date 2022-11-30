@@ -4,7 +4,7 @@ description: Steps on deploying a smart contract on Fusenet through Remix.
 
 # Deploying smart contract on Fusenet
 
-BankCEX is an EVM compatible network, every tool for Ethereum can be used for the BankCEX network too.
+Bankcoin is an EVM compatible network, every tool for Ethereum can be used for the Bankcoin network too.
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
 
@@ -12,7 +12,7 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to BankCEX network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to Bankcoin network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.bankcexchain.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
 
 You need to have a small balance of BANK on the Fusenet wallet you are using which will be used as Gas for the transactions.
 

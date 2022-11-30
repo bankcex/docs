@@ -24,7 +24,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](../../.gitbook/assets/3%20%284%29.png)
 
-**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“BankCEX network”** and then select the Wallet address you would like to Send/Receive **BANK** tokens, accept the terms and conditions and click on **“Access my Wallet”.**
+**Step 4:** Once you click “Next” in the previous step now you will have to change the Network to **“Bankcoin network”** and then select the Wallet address you would like to Send/Receive **BANK** tokens, accept the terms and conditions and click on **“Access my Wallet”.**
 
 ![](../../.gitbook/assets/4%20%285%29.png)
 
@@ -32,7 +32,7 @@ _This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethe
 
 ![](../../.gitbook/assets/6%20%284%29.png)
 
-**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on BankCEX network, you can see your BankCEX address \(Fusenet\), balance, etc.
+**Step 5:** Now that you have logged in to your address in Ledger through MyEtherWallet on Bankcoin network, you can see your Bankcoin address \(Fusenet\), balance, etc.
 
 ![](../../.gitbook/assets/7%20%283%29.png)
 

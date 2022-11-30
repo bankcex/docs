@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[BankCEX Cash](https://fuse.c)
+[Bankcoin Cash](https://fuse.c)
 
 Metamask
 
@@ -50,10 +50,10 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[BankCEX Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
+[Bankcoin Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
 
-[BankCEX Rewards](https://rewards.bankcexchain.io)
+[Bankcoin Rewards](https://rewards.bankcexchain.io)
 
-[BankCEX Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+[Bankcoin Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
 [Staking Rewards](https://www.stakingrewards.com/)

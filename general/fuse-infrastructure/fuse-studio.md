@@ -1,23 +1,23 @@
-# BankCEX Studio
+# Bankcoin Studio
 
 
 
-![BankCEX Studio architecture](../../.gitbook/assets/image%20%283%29.png)
+![Bankcoin Studio architecture](../../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 
 The backend is composed of the following independent services
 
 * Studio API Backend has two purposes. Provides an API for fast and convenient querying of the blockchain data for the Studio DApp. Transmits heavy and complicated transaction flows on behalf of the user.
-* BankCEX-funder service used to fund community members and wallet users on the BankCEX blockchain.
-* BankCEX IPFS proxy used for fast fetching and storing data in IPFS.
+* Bankcoin-funder service used to fund community members and wallet users on the Bankcoin blockchain.
+* Bankcoin IPFS proxy used for fast fetching and storing data in IPFS.
 
 ## Contracts
 
-BankCEX studio is designed to launch DeFi communities on the BankCEX network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
+Bankcoin studio is designed to launch DeFi communities on the Bankcoin network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community TL20 tokens on BankCEX network with transfer rules
+* Community TL20 tokens on Bankcoin network with transfer rules
 * TL20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
 * [Multitoken bridge](https://github.com/fuseio/bridge-contracts) - to minimize friction and costs we extended the POA TL20-TL20 bridge contract to many-TL20-to-many contract.
 

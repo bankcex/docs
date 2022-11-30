@@ -1,8 +1,8 @@
 # BANK on Other Chains
 
-Interoperability with other major blockchains is important for the growth of BankCEX and the prospects of realizing its vision. One of the ways of securing it is through enabling the versions (wrappers) of BANK on other chains.&#x20;
+Interoperability with other major blockchains is important for the growth of Bankcoin and the prospects of realizing its vision. One of the ways of securing it is through enabling the versions (wrappers) of BANK on other chains.&#x20;
 
-Unlinke BANK on BankCEX, those wrappers are TL20 tokens are created whenever someone locks a certain number of tokens on the BankCEX and gets issued the exact same amount of wrapper tokens on the target blockchain. If a user withdraws the wrapper from the target blockchain, the tokens burned and the BANK tokens on BankCEX are unlocked.&#x20;
+Unlinke BANK on Bankcoin, those wrappers are TL20 tokens are created whenever someone locks a certain number of tokens on the Bankcoin and gets issued the exact same amount of wrapper tokens on the target blockchain. If a user withdraws the wrapper from the target blockchain, the tokens burned and the BANK tokens on Bankcoin are unlocked.&#x20;
 
 Currently, wrapped versions of BANK token exist on Ethereum (mainnet), Binance Smart Chain and the Arbitrum One layer-2 optimistic rollup chain for Ethereum. The latter is a wrapper of a wrapper powered by the Ethereum-Arbitrum bridge and its withdrawals from Arbitrum are subject to the optimistic rollup rules.&#x20;
 

@@ -1,3 +1,3 @@
-# Wallets supporting BankCEX
+# Wallets supporting Bankcoin
 
-The following wallets currently support the BankCEX blockchain.
+The following wallets currently support the Bankcoin blockchain.

@@ -1,6 +1,6 @@
 # Testing the studio for free on Ropsten
 
-MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users to interact with decentralized apps and use their wallet to sign transactions on web3.0 decentralized apps like the BankCEX Studio. Before launching your community on mainnet you can test our platform for free on Ropsten. Because using Ethereum requires paying fee's you will need to have ETH on Ropsten before launching your community. Here is how to do it:
+MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users to interact with decentralized apps and use their wallet to sign transactions on web3.0 decentralized apps like the Bankcoin Studio. Before launching your community on mainnet you can test our platform for free on Ropsten. Because using Ethereum requires paying fee's you will need to have ETH on Ropsten before launching your community. Here is how to do it:
 
 ![](../../.gitbook/assets/metamask.jpg)
 
@@ -11,7 +11,7 @@ MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users 
 3. Change the network selector on the top of the wallet to **Ropsten network**
 4. Go to Ropsten Ether Faucet - [here](https://faucet.ropsten.be/)
 5. Paste your address in the text field to get some ETH on Ropsten.
-6. Go to the [BankCEX studio](https://studio-qa.bankcexchain.io/) and start to explore
+6. Go to the [Bankcoin studio](https://studio-qa.bankcexchain.io/) and start to explore
 
 
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  BankCEX Multi TL20 bridge is used to relay the TL20 tokens between BankCEX and
+  Bankcoin Multi TL20 bridge is used to relay the TL20 tokens between Bankcoin and
   Ethereum networks.
 ---
 
-# Multi ERC-20: Ethereum ↔ BankCEX
+# Multi ERC-20: Ethereum ↔ Bankcoin
 
 ## Architecture Overview
 
@@ -12,11 +12,11 @@ This bridge is two layer bridge. In the base level the  Arbitrary Message Bridge
 
 ## Contracts
 
-Home side of the bridge on the BankCEX network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://scan.bankcoin.io/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
+Home side of the bridge on the Bankcoin network: [0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03](https://scan.bankcoin.io/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03)
 
 Foreign side of the bridge on the Ethereum network: [0xf301d525da003e874DF574BCdd309a6BF0535bb6](https://etherscan.io/address/0xf301d525da003e874DF574BCdd309a6BF0535bb6)
 
-Home side of the AMB bridge on the BankCEX network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://scan.bankcoin.io/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
+Home side of the AMB bridge on the Bankcoin network: [0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399](https://scan.bankcoin.io/address/0x2CA5411c4bf447Cc27CD6E6d1d046f922A27C399/transactions)
 
 Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af376bd927C835014039f](https://etherscan.io/address/0x63C47c296B63bE888e9af376bd927C835014039f)
 
@@ -26,16 +26,16 @@ Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af
 
 ## How to use
 
-Any TL20 token can be bridged for Ethereum to the BankCEX. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the BankCEX network. 
+Any TL20 token can be bridged for Ethereum to the Bankcoin. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the Bankcoin network. 
 
 To send token from the Ethereum network:
 
 1. Approve the TL20 tokens to be spent by the Foreign TL20 bridge. 
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the TL20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the BankCEX TL20 token will be sent from the home bridge contract.
+the `relayTokens` method will lock the TL20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Bankcoin TL20 token will be sent from the home bridge contract.
 
-To send tokens from BankCEX network
+To send tokens from Bankcoin network
 
 1. Approve the TL20 tokens to be spent by the Home TL20 bridge. 
 2. Call `relayTokens` function on the bridge contract

@@ -222,11 +222,11 @@ Success-Response:
                                 "currency": {
                                     "decimals": 6,
                                     "symbol": "USDC",
-                                    "name": "USD Coin on BankCEX",
+                                    "name": "USD Coin on Bankcoin",
                                     "chainId": 2321,
                                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                     "tokenInfo": {
-                                        "name": "USD Coin on BankCEX",
+                                        "name": "USD Coin on Bankcoin",
                                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                         "symbol": "USDC",
                                         "decimals": 6,
@@ -238,11 +238,11 @@ Success-Response:
                                 "token": {
                                     "decimals": 6,
                                     "symbol": "USDC",
-                                    "name": "USD Coin on BankCEX",
+                                    "name": "USD Coin on Bankcoin",
                                     "chainId": 2321,
                                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                     "tokenInfo": {
-                                        "name": "USD Coin on BankCEX",
+                                        "name": "USD Coin on Bankcoin",
                                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                                         "symbol": "USDC",
                                         "decimals": 6,
@@ -264,11 +264,11 @@ Success-Response:
                                 "currency": {
                                     "decimals": 18,
                                     "symbol": "WETH",
-                                    "name": "Wrapped Ether on BankCEX",
+                                    "name": "Wrapped Ether on Bankcoin",
                                     "chainId": 2321,
                                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                     "tokenInfo": {
-                                        "name": "Wrapped Ether on BankCEX",
+                                        "name": "Wrapped Ether on Bankcoin",
                                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                         "symbol": "WETH",
                                         "decimals": 18,
@@ -280,11 +280,11 @@ Success-Response:
                                 "token": {
                                     "decimals": 18,
                                     "symbol": "WETH",
-                                    "name": "Wrapped Ether on BankCEX",
+                                    "name": "Wrapped Ether on Bankcoin",
                                     "chainId": 2321,
                                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                     "tokenInfo": {
-                                        "name": "Wrapped Ether on BankCEX",
+                                        "name": "Wrapped Ether on Bankcoin",
                                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                                         "symbol": "WETH",
                                         "decimals": 18,
@@ -301,11 +301,11 @@ Success-Response:
                     {
                         "decimals": 18,
                         "symbol": "WETH",
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "chainId": 2321,
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "tokenInfo": {
-                            "name": "Wrapped Ether on BankCEX",
+                            "name": "Wrapped Ether on Bankcoin",
                             "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                             "symbol": "WETH",
                             "decimals": 18,
@@ -317,11 +317,11 @@ Success-Response:
                     {
                         "decimals": 6,
                         "symbol": "USDC",
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "chainId": 2321,
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "tokenInfo": {
-                            "name": "USD Coin on BankCEX",
+                            "name": "USD Coin on Bankcoin",
                             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                             "symbol": "USDC",
                             "decimals": 6,
@@ -342,11 +342,11 @@ Success-Response:
                     "baseCurrency": {
                         "decimals": 18,
                         "symbol": "WETH",
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "chainId": 2321,
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "tokenInfo": {
-                            "name": "Wrapped Ether on BankCEX",
+                            "name": "Wrapped Ether on Bankcoin",
                             "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                             "symbol": "WETH",
                             "decimals": 18,
@@ -358,11 +358,11 @@ Success-Response:
                     "quoteCurrency": {
                         "decimals": 6,
                         "symbol": "USDC",
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "chainId": 2321,
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "tokenInfo": {
-                            "name": "USD Coin on BankCEX",
+                            "name": "USD Coin on Bankcoin",
                             "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                             "symbol": "USDC",
                             "decimals": 6,
@@ -384,11 +384,11 @@ Success-Response:
                 "input": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on BankCEX",
+                    "name": "Wrapped Ether on Bankcoin",
                     "chainId": 2321,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -400,11 +400,11 @@ Success-Response:
                 "output": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on BankCEX",
+                    "name": "USD Coin on Bankcoin",
                     "chainId": 2321,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -427,11 +427,11 @@ Success-Response:
                 "currency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on BankCEX",
+                    "name": "Wrapped Ether on Bankcoin",
                     "chainId": 2321,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -443,11 +443,11 @@ Success-Response:
                 "token": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on BankCEX",
+                    "name": "Wrapped Ether on Bankcoin",
                     "chainId": 2321,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -467,11 +467,11 @@ Success-Response:
                 "currency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on BankCEX",
+                    "name": "USD Coin on Bankcoin",
                     "chainId": 2321,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -483,11 +483,11 @@ Success-Response:
                 "token": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on BankCEX",
+                    "name": "USD Coin on Bankcoin",
                     "chainId": 2321,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -508,11 +508,11 @@ Success-Response:
                 "baseCurrency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on BankCEX",
+                    "name": "Wrapped Ether on Bankcoin",
                     "chainId": 2321,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -524,11 +524,11 @@ Success-Response:
                 "quoteCurrency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on BankCEX",
+                    "name": "USD Coin on Bankcoin",
                     "chainId": 2321,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,
@@ -558,11 +558,11 @@ Success-Response:
                 "baseCurrency": {
                     "decimals": 18,
                     "symbol": "WETH",
-                    "name": "Wrapped Ether on BankCEX",
+                    "name": "Wrapped Ether on Bankcoin",
                     "chainId": 2321,
                     "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                     "tokenInfo": {
-                        "name": "Wrapped Ether on BankCEX",
+                        "name": "Wrapped Ether on Bankcoin",
                         "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
                         "symbol": "WETH",
                         "decimals": 18,
@@ -574,11 +574,11 @@ Success-Response:
                 "quoteCurrency": {
                     "decimals": 6,
                     "symbol": "USDC",
-                    "name": "USD Coin on BankCEX",
+                    "name": "USD Coin on Bankcoin",
                     "chainId": 2321,
                     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                     "tokenInfo": {
-                        "name": "USD Coin on BankCEX",
+                        "name": "USD Coin on Bankcoin",
                         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
                         "symbol": "USDC",
                         "decimals": 6,

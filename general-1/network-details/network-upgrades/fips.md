@@ -1,5 +1,5 @@
 ---
-description: The BankCEX Improvement Proposal
+description: The Bankcoin Improvement Proposal
 ---
 
 # FIP's
@@ -8,13 +8,13 @@ See FIP1 for more info [https://github.com/fuseio/FIPs/blob/master/FIPS/fip-1.md
 
 ### What is a FIP?
 
-FIP stands for BankCEX Improvement Proposal. A FIP is a design document providing information to the BankCEX community, or describing a new feature for BankCEX. The FIP should provide motivation and technical specification for the feature.
+FIP stands for Bankcoin Improvement Proposal. A FIP is a design document providing information to the Bankcoin community, or describing a new feature for Bankcoin. The FIP should provide motivation and technical specification for the feature.
 
 | FIP                                                               | Description                                                  | Status                                                 |
 | ----------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
 | [FIP-1](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-1.md) | Introduction and explanation about FIP's                     | Done                                                   |
 | [FIP-2](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-2.md) | Enabling delegation of fuse tokens to validators             | Done                                                   |
-| [FIP-3](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-3.md) | Lowering the stake to run a validator node to 100K BankCEX      | Done                                                   |
+| [FIP-3](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-3.md) | Lowering the stake to run a validator node to 100K Bankcoin      | Done                                                   |
 | [FIP-4](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-4.md) | Multi validators, validators can run multiple nodes          | Undone                                                 |
 | [FIP-5](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-5.md) | Validators key splitting, validator will have separated keys | Undone                                                 |
 | [FIP-6](https://github.com/fuseio/FIPs/blob/master/FIPS/fip-6.md) | Bridge implementation should be changeable by voting         | Undone                                                 |
